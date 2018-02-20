@@ -27,4 +27,7 @@ void keyPressed() {
     rect(x, y, 50, 50);
   if (coin == 1)
     ellipse(x, y, 50, 50);
+  if (key == 's') {
+    save("screenshot" + frameCount + ".png");
+  }
 }
