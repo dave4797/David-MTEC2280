@@ -1,0 +1,21 @@
+Camile Utterback & Romy Achituv - Text Rain
+
+The first project that I would be interested in is the text rain. I felt interested in this project because of 
+the way you can move the letters with your hands and different objects. I believe this can be done with a 
+projector and some sensors and an ardiuno board. I would also need to code this where the sensors can locate 
+the coordinates of the movement of hands and objects. 
+
+Graffiti Research Lab – EyeWriter Draw video graffiti with your eyes
+
+The second project that I would be interested in is the EyeWriter. I feel this is an interesting project because 
+it's pretty cool to draw with your eyes and it helps people with disabilites to communicate on a whole 
+different level. For this project, I would need a tracker to track the eye's movement and a screen monitor 
+for display.
+
+Mine Kafon- Callum Copper
+
+The third project I'm interested in is the landmine clearance. I feel this is an interesting project because it 
+helps scout out mines and helps save lives at a very low cost. I would design the product just like the video 
+where there is a core like object that has many legs sticking out. Like the video states it will be powered
+by wind, but I will add a control function so that it can be control to go a certain place. this can be done
+with an ardiuno board.
