@@ -1,0 +1,5 @@
+Final Project Write Up
+
+The project I chose to do is a robot arm that has a scissor attached to it. It utilizes the brightest pixel location function
+and the key press function. It started off where the idea was a hair cutting arm. Then, it changed to a paper cutting arm. The
+final twist to the project was adding the brightest pixel tracking feature. 
